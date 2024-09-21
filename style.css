@@ -34,7 +34,6 @@ img {
 }
 
 .textContainer {
-    padding-top:10px;
     padding-bottom: 50px;
     width: 95%;
     font-family: 'Outfit', sans-serif;
@@ -42,7 +41,7 @@ img {
 }
 
 #mainText{
-    font-size: 21px;
+    font-size: 22px;
     padding: 10px;
     font-weight: 700;
     color: hsl(218, 44%, 22%);
